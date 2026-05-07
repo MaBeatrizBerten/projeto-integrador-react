@@ -1,0 +1,18 @@
+.usuarios-container {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.usuario-card {
+  background-color: #98db7960;
+  border-radius: 10px;
+  padding: 20px;
+  width: 220px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  transition: transform 0.2s;
+}
+
+.usuario-card:hover {
+  transform: translateY(-4px);
+}

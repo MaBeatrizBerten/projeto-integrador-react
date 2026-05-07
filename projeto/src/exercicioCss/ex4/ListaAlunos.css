@@ -1,0 +1,21 @@
+.lista-alunos {
+  list-style: none;
+  padding: 0;
+}
+
+.lista-alunos li {
+  padding: 10px;
+  margin: 6px 0;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.aprovado {
+  color: green;
+  background-color: #d1fae5;
+}
+
+.reprovado {
+  color: red;
+  background-color: #fee2e2;
+}

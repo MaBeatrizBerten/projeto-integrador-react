@@ -1,0 +1,21 @@
+.card {
+  border: 1px solid #cccccc85;
+  padding: 20px;
+  background-color: #f0f4ff7e;
+  width: 250px;
+  border-radius: 8px;
+}
+
+.btn-perfil {
+  background-color: #1d4ed8;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+  border-radius: 4px;
+  margin-top: 10px;
+}
+
+.btn-perfil:hover {
+  background-color: #1e40af;
+}

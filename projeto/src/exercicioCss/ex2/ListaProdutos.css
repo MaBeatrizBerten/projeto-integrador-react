@@ -1,0 +1,16 @@
+.lista {
+  list-style: none;
+  padding: 0;
+}
+
+.item {
+  background-color: #79adcfab;
+  padding: 12px;
+  margin-bottom: 8px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.item:hover {
+  background-color: #bae6fd;
+}

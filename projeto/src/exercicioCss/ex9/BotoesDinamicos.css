@@ -1,0 +1,23 @@
+.botoes-container {
+  display: flex;
+  gap: 12px;
+  padding: 20px;
+}
+
+.botao {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  color: white;
+}
+
+.sucesso { background-color: #16a34a; }
+.sucesso:hover { background-color: #15803d; }
+
+.erro { background-color: #dc2626; }
+.erro:hover { background-color: #b91c1c; }
+
+.aviso { background-color: #d97706; }
+.aviso:hover { background-color: #b45309; }
